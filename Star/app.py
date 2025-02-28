@@ -1,15 +1,7 @@
 import streamlit as st
-import streamlit_jupyter as stj
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
-from ydata_profiling import ProfileReport
-from ydata_profiling.utils.cache import cache_file
-from ydata_profiling.visualisation.plot import timeseries_heatmap
-from pathlib import Path
-import streamlit.components.v1 as components
 
 
 if st.button("Home", icon="🏠"):
