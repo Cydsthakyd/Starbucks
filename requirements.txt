@@ -5,8 +5,8 @@ plotly==6.0.0
 seaborn==0.13.2
 streamlit==1.42.2
 streamlit_jupyter==0.2.1
-ydata_profiling==4.12.2
 streamlit-pandas-profiling==0.1.3
 phik==0.12.3
+ydata_profiling==4.12.2
 setuptools>=65.5.0
 openpyxl
